@@ -4,7 +4,7 @@ In this repository we provide artwork for the OpenBao project in standardized fo
 
 Please have a look on the [branding documentation](https://openbao.org/docs/policies/brand/).
 
-![Color Logo](./color/openbao-text-color.png)
+![Color Logo](./color/openbao-color.png)
 
 ## Toolchain
 
